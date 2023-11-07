@@ -1,0 +1,14 @@
+{
+  "name": "docker_mimi_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oswin Alex",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
